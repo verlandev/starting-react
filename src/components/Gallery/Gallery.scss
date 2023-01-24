@@ -1,0 +1,25 @@
+.gallery{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+    &__img{
+        width: 25em;
+
+    }
+
+    &__h3{
+        text-align: center;
+    }
+    
+    &__h4{
+        text-align: center;
+    }
+
+    &__p{
+        text-align: center;
+    }
+}
+
